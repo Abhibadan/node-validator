@@ -1,0 +1,19 @@
+{
+  "name": "node-validator",
+  "version": "1.0.0",
+  "description": "This pacakge for making validation of node api request easier",
+  "main": "Validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Abhibadan/node-validator.git"
+  },
+  "author": "Abhibadan Ghosh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Abhibadan/node-validator/issues"
+  },
+  "homepage": "https://github.com/Abhibadan/node-validator#readme"
+}
